@@ -2,3 +2,5 @@ GitHub 협업 작업을 하기위한 test
 
 isuue1브랜치 생성하고 전환.
 isuue1브랜치 한 번 더 추가 수정하고 commit
+
+isuue2브랜치 생성, 전환
